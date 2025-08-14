@@ -8,6 +8,7 @@ Este projeto foi desenvolvido para a disciplina de Conceitos de Linguagens de Pr
 ## Arquivos do Repositório
 
 O repositório está estruturado da seguinte forma:
+.
 ├── C/
 │   ├── mandelbrot.c      # Código-fonte em C que calcula o fractal
 │   └── mandelbrot.h      # Arquivo de cabeçalho para a função em C
